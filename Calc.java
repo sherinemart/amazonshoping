@@ -2,13 +2,13 @@ class Calc
 {
  //Global var
  int a=34;
- int b=67;
+ int b=45;
  int c=a+b;
 
 void square()
 {
  //Local var
- int s=5;
+ int s=8;
  int area;
  area=s*s;
  System.out.println("The area of square: "+ area);
